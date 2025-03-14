@@ -1,6 +1,7 @@
 Release 1.0 - uploaded March 14th 2025
 
-Custom scrolling menu for console applications. C/C++
+Custom scrolling menu for console applications in C/C++.
+
 You can create a menu with custom strings made inside your code and / or for files from a directory.
 
 #Possible future updates
